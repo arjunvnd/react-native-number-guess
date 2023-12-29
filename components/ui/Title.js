@@ -8,11 +8,11 @@ export const Title = ({ children }) => {
 const styles = StyleSheet.create({
   title: {
     fontSize: 24,
-    fontWeight: "bold",
     color: Colors.accent500,
     textAlign: "center",
     borderWidth: 2,
     padding: 12,
     borderColor: Colors.accent500,
+    fontFamily: "openSansBold",
   },
 });
