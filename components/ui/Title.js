@@ -14,5 +14,6 @@ const styles = StyleSheet.create({
     padding: 12,
     borderColor: Colors.accent500,
     fontFamily: "openSansBold",
+    maxWidth: "80%",
   },
 });
